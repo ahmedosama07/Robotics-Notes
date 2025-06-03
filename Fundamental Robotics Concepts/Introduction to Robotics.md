@@ -15,17 +15,17 @@ $$
 
 ### **1.2 Isaac Asimov’s Three Laws of Robotics**
 
-1️⃣ **First Law:**
+1. **First Law:**
 A robot may not injure a human being or, through inaction, allow a human being to come to harm
 $$
 \boxed{\text{A robot may not injure a human being or, through inaction, allow a human being to come to harm}}
 $$
 
-2️⃣ **Second Law:**
+2. **Second Law:**
 $$
 \boxed{\text{A robot must obey the orders given it by human beings except where such orders would conflict with the First Law}}
 $$
-3️⃣ **Third Law:**
+3. **Third Law:**
 $$
 \boxed{\text{A robot must protect its own existence as long as such protection does not conflict with the First or Second Law}}
 $$
@@ -87,17 +87,17 @@ $$
 ---
 ### **1.7 Applications**
 
-✅ **Dangerous environments:**
-- Nuclear decontamination
-- Deep-sea exploration
-- Space missions
-✅ **Manual tasks:**
-- Assembly, welding
-- Material handling
-- Automated packaging
-✅ **Decontamination and cleaning:**
-- Robotic vacuum cleaners
-- Window cleaning robots
-✅ **Manufacturing:**
-- Automotive assembly lines
-- PCB soldering
+- **Dangerous environments:**
+	- Nuclear decontamination
+	- Deep-sea exploration
+	- Space missions
+- **Manual tasks:**
+	- Assembly, welding
+	- Material handling
+	- Automated packaging
+- **Decontamination and cleaning:**
+	- Robotic vacuum cleaners
+	- Window cleaning robots
+- **Manufacturing:**
+	- Automotive assembly lines
+	- PCB soldering
